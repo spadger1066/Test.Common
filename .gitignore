@@ -31,3 +31,6 @@ _ReSharper*/
 *.btproj.user
 *.gpstate
 ~$*.docx
+default.ps1
+install.ps1
+TestResult.xml
